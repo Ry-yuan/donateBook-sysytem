@@ -27,6 +27,7 @@ var Config = {
     // less文件路径
     less: {
         src: SRC_DIR + 'less/*.less',
+        src1: SRC_DIR + 'css',
         dist: DIST_DIR + 'css'
     },
     // js文件路径

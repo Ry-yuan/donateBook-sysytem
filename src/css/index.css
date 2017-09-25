@@ -1,1 +1,19 @@
-
+.m-footer {
+  margin-top: 50px;
+  height: 200px;
+  background-color: #222;
+}
+.m-footer .copy {
+  color: #fff;
+}
+.index-content {
+  margin-top: 50px;
+}
+.index-btn {
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.m-booksize {
+  width: 200px;
+  height: 200px;
+}
